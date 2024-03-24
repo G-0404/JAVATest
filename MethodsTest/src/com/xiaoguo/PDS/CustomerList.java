@@ -27,6 +27,7 @@ public class CustomerList {
      * @desc 列表添加新对象，添加成功则返回true，失败为false
      */
     public boolean addCustomer(Customer customer) {
+        System.out.println("qwewqewqewq");
         if (judgeIndex(this.total)) {
             this.user_list[total] = customer;
             this.user_list[total].setId(this.total);
