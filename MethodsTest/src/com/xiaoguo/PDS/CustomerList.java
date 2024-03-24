@@ -28,6 +28,9 @@ public class CustomerList {
      */
     public boolean addCustomer(Customer customer) {
         System.out.println("qwewqewqewq");
+        System.out.println("qwewqewqewq");
+        System.out.println("qwewqewqewq");
+        System.out.println("qwewqewqewq");
         if (judgeIndex(this.total)) {
             this.user_list[total] = customer;
             this.user_list[total].setId(this.total);
