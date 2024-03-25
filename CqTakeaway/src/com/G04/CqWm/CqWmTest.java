@@ -41,7 +41,7 @@ public class CqWmTest {
         }
     }
 
-    public LoginItem inputFunc() {
+    private LoginItem inputFunc() {
         LoginItem loginItem = new LoginItem();
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入账号");
