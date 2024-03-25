@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayTest/ArrayTest.iml" filepath="$PROJECT_DIR$/ArrayTest/ArrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CqTakeaway/CqTakeaway.iml" filepath="$PROJECT_DIR$/CqTakeaway/CqTakeaway.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodsTest/MethodsTest.iml" filepath="$PROJECT_DIR$/MethodsTest/MethodsTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestJavaProject.iml" filepath="$PROJECT_DIR$/TestJavaProject.iml" />
