@@ -11,10 +11,19 @@ package com.G04.CqWm;
 public class FoodList {
     FoodItem[] FoodList;
 
+    public static void main(String[] args) {
+        FoodItem[] foodItems = new FoodItem[10];
+        for (FoodItem item : foodItems) {
+            item = new FoodItem("橘子", "asdadasdsa", FoodType.BUSINESS_SET, 3.33, false);
+            item.food_name = "abc";
+            System.out.println(item.food_name);
+        }
+
+    }
+
     public FoodList(FoodItem[] foodList) {
         FoodList = foodList;
     }
 
-    public static void main(String[] args) {
-    }
+
 }

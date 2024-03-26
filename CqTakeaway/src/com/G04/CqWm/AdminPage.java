@@ -12,4 +12,5 @@ public class AdminPage {
     public void pageInit() {
         System.out.println("管理员页面开始");
     }
+    // delFood
 }
