@@ -11,5 +11,8 @@ public class MethodsTest {
         OverloadTest overloadTest = new OverloadTest();
         overloadTest.add(3, 3);
 
+        // String str = "asdas";
+        // boolean flag = str.equals("dasdsa");
+
     }
 }
