@@ -22,6 +22,10 @@ public class StaticTest {
         System.out.println(c2.toString());
         // System.out.println();
         c2.setNation("CNN");
+        c2.setNation("CNN");
+        c2.setNation("CNN");
+        c2.setNation("CNN");
+        c2.setNation("CNN");
 
     }
 
