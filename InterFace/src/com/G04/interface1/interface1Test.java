@@ -12,6 +12,13 @@ public class interface1Test {
     public static void main(String[] args) {
         System.out.println(Flyable.MAX_SPEED);
         // Attackable.attack();
+        Plane b1 = new Plane();
+        b1.fly();
+        b1.attack();
+
+        Flyable b2 = new Plane();
+        b2.fly();
+
     }
 }
 
@@ -40,7 +47,7 @@ interface Attachable {
 
 }
 
-class plane implements Flyable, Attachable {
+class Plane implements Flyable, Attachable {
     @Override
     public void fly() {
         System.out.println("飞机飞");
@@ -52,8 +59,11 @@ class plane implements Flyable, Attachable {
     }
 }
 
-abstract class Bullet implements Flyable {
+class Bullet implements Flyable {
+    @Override
+    public void fly() {
 
+    }
 }
 
 // 测试接口的继承关系
@@ -67,13 +77,26 @@ interface BB {
 }
 
 interface CC extends AA, BB {
+    // @Override
+    // default void methods1() {
+    //
+    // }
+    //
+    // @Override
+    // default void methods2() {
+    //
+    // }
+}
+
+class DD implements CC {
+
     @Override
-    default void methods1() {
+    public void methods1() {
 
     }
 
     @Override
-    default void methods2() {
+    public void methods2() {
 
     }
 }
