@@ -34,11 +34,10 @@ public class StaticTest {
 
 class Chinese {
     // 非静态变量
-    static String nation = "中国";
-
     String name;
     int age;
     // 静态变量
+    static String nation = "中国";
 
 
     public void setNation(String nation) {
