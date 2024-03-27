@@ -55,3 +55,25 @@ class plane implements Flyable, Attachable {
 abstract class Bullet implements Flyable {
 
 }
+
+// 测试接口的继承关系
+interface AA {
+    void methods1();
+}
+
+interface BB {
+    void methods2();
+
+}
+
+interface CC extends AA, BB {
+    @Override
+    default void methods1() {
+
+    }
+
+    @Override
+    default void methods2() {
+
+    }
+}
