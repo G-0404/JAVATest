@@ -44,7 +44,7 @@ public class CustomerList {
     }
 
     /**
-     * @param customer
+     * @param customer Customer
      * @return Boolean
      * @desc 替换数组中对应位置的对象，替换成功则返回true，失败为false
      */
