@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9536ad30-9dcc-45e1-912e-86a998e2c10d" name="Changes" comment="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVATest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsTest/src/com/xiaoguo/AnnotationClass/Annotation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/innerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/ColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/OuterClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/SeasonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/enumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/realtech.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;G-0404&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="40ea66e5-c550-410c-bd8d-d50cc19187b5" />
+        <option name="url" value="https://github.com/G-0404/JAVATest.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eM0IhC0fRtGl47yuCEmfeiSsAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "正在合并 master",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9536ad30-9dcc-45e1-912e-86a998e2c10d" name="Changes" comment="" />
+      <created>1711699061777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711699061777</updated>
+      <workItem from="1711699062843" duration="187000" />
+      <workItem from="1711699257215" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml&#10;" />
+    <MESSAGE value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml" />
+  </component>
+</project>
