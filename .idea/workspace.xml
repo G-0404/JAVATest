@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVATest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodsTest/src/com/xiaoguo/AnnotationClass/Annotation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/ColorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/realtech.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/enumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/enumTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +110,7 @@
       <workItem from="1711691534268" duration="74000" />
       <workItem from="1711691616468" duration="5033000" />
       <workItem from="1711696711499" duration="141000" />
-      <workItem from="1711696858763" duration="616000" />
+      <workItem from="1711696858763" duration="1269000" />
     </task>
     <servers />
   </component>
