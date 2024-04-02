@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/JAVATest.iml" filepath="$PROJECT_DIR$/JAVATest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodsTest/MethodsTest.iml" filepath="$PROJECT_DIR$/MethodsTest/MethodsTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
     </modules>
   </component>
