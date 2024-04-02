@@ -81,6 +81,7 @@ public class CreateThread {
         // Thread t1 =
         new Thread(new CreateThreadMethod2()) {
         }.start();
+        // new Thread("abc")
     }
 
 }
