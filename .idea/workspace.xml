@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/ThreadCommunication/Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/ThreadCommunication/ProducerConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/ThreadCommunication/TreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/threadSafeMore/deadlock/DeadLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/threadSafeMore/lock/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/threadSafeMore/singleton/BankTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/CreateThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +87,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WindowTest (4)">
-    <configuration name="WindowTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
+  <component name="RunManager" selected="Application.ProducerConsumerTest (1)">
+    <configuration name="ProducerConsumerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
+    <configuration name="ProducerConsumerTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
+    <configuration name="ProducerConsumerTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
+    <configuration name="ProducerConsumerTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,26 +140,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
+    <configuration name="ProducerConsumerTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="InterFace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="InterFace" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindowTest (4)" />
-        <item itemvalue="Application.WindowTest (3)" />
-        <item itemvalue="Application.WindowTest (2)" />
-        <item itemvalue="Application.WindowTest" />
-        <item itemvalue="Application.WindowTest (1)" />
+        <item itemvalue="Application.ProducerConsumerTest (1)" />
+        <item itemvalue="Application.ProducerConsumerTest (5)" />
+        <item itemvalue="Application.ProducerConsumerTest (4)" />
+        <item itemvalue="Application.ProducerConsumerTest (3)" />
+        <item itemvalue="Application.ProducerConsumerTest (2)" />
       </list>
     </recent_temporary>
   </component>
