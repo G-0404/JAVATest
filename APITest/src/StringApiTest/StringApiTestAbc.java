@@ -10,7 +10,7 @@ import org.junit.Test;
  * Package: StringApiTest
  * Description:
  */
-public class StringApiTest1 {
+public class StringApiTestAbc {
     @Test
     public void StringDemo() {
         String str = "HEllo";

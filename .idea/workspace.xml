@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/APITest/APITest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APITest/src/StringApiTest/StringApiTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/src/StringApiTest/StringApiTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/APITest/src/StringApiTest/StringApiTestAbc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,19 +155,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="InterFace" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="InterFace" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StringApiTest1.StringDemo" />
@@ -196,6 +183,9 @@
       <workItem from="1711800194407" duration="647000" />
       <workItem from="1711800849486" duration="49000" />
       <workItem from="1711800904858" duration="167000" />
+      <workItem from="1712233742434" duration="628000" />
+      <workItem from="1712292529045" duration="616000" />
+      <workItem from="1712475202913" duration="828000" />
     </task>
     <servers />
   </component>
