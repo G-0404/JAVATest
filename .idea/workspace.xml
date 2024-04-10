@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9536ad30-9dcc-45e1-912e-86a998e2c10d" name="Changes" comment="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkShare/HomeWorkShare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkShare/src/com/G04/HomeWork/Work0410.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JAVATest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MethodsTest/src/com/xiaoguo/AnnotationClass/Annotation1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/innerClass/innerClass.iml" afterDir="false" />
@@ -21,13 +26,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" afterDir="false" />
-    </list>
-    <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWorkShare/HomeWorkShare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorkShare/src/com/G04/HomeWork/Work0410.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,124 +66,45 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;G-0404&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="40ea66e5-c550-410c-bd8d-d50cc19187b5" />
-        <option name="url" value="https://github.com/G-0404/JAVATest.git" />
-      </UrlAndAccount>
-    </option>
+  <component name="GitHubPullRequestSearchHistory">
+    <history>
+      <request>
+        <state state="OPEN" assignee="G-0404" />
+      </request>
+    </history>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
+  <component name="GithubPullRequestsUISettings">
+    <selectedUrlAndAccountId>
+      <UrlAndAccount>
+        <accountId>40ea66e5-c550-410c-bd8d-d50cc19187b5</accountId>
+        <url>https://github.com/G-0404/JAVATest.git</url>
+      </UrlAndAccount>
+    </selectedUrlAndAccountId>
+  </component>
+  <component name="ProjectColorInfo">
+    <associatedIndex>5</associatedIndex>
+  </component>
   <component name="ProjectId" id="2eM0IhC0fRtGl47yuCEmfeiSsAO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "正在合并 master",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev__G&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev__G",
-    "jdk.selected.JAVA_MODULE": "17",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev__G&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RunManager" selected="JUnit.CollectionTest.test6">
-    <configuration name="CollectionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
-}]]></component>
-}</component>
-  <component name="RunManager" selected="Application.ScoreTest">
-    <configuration name="ColorTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.innerClassTest.APPLY.ColorTest" />
-      <module name="innerClass" />
-}]]></component>
-  <component name="RunManager" selected="Application.WindowTest (4)">
-    <configuration name="WindowTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
-      <module name="ThreadTest" />
+  <component name="PropertiesComponent">
+    <property name="keyToString" value="{   &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,   &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,   &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,   &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,   &quot;git-widget-placeholder&quot;: &quot;dev__G&quot;,   &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,   &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,   &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,   &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,   &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,   &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,   &quot;project.structure.proportion&quot;: &quot;0.15&quot;,   &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,   &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,   &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot; }" />
+  </component>
+  <component name="RunManager" selected="Application.Work0410">
+    <configuration name="Work0410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.HomeWork.Work0410" />
+      <module name="HomeWorkShare" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="PATTERN" value="com.G04.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Collection" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,10 +173,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Work0410" />
         <item itemvalue="JUnit.CollectionTest.test6" />
         <item itemvalue="JUnit.CollectionTest.test5" />
         <item itemvalue="JUnit.CollectionTest (3)" />
-        <item itemvalue="JUnit.CollectionTest (2)" />
         <item itemvalue="JUnit.CollectionTest" />
       </list>
     </recent_temporary>
@@ -267,10 +188,9 @@
       <created>1711699061777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711699061777</updated>
+      <updated>1711625927786</updated>
       <workItem from="1711699062843" duration="187000" />
       <workItem from="1711699257215" duration="89000" />
-      <updated>1711625927786</updated>
       <workItem from="1711625928973" duration="3871000" />
       <workItem from="1711690883199" duration="607000" />
       <workItem from="1711691499338" duration="26000" />
@@ -289,9 +209,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
