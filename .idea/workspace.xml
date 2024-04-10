@@ -24,16 +24,10 @@
       <change beforePath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" afterDir="false" />
     </list>
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/WindowsTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadTest/src/com/G04/test1/同步机制.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/CollectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsTest/src/OverloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsTest/src/OverloadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +136,34 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev__G&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
+}</component>
+  <component name="RunManager" selected="JUnit.CollectionTest.test6">
+    <configuration name="CollectionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
 }]]></component>
 }</component>
   <component name="RunManager" selected="Application.ScoreTest">
@@ -156,73 +177,86 @@
       <module name="ThreadTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
-      <module name="ThreadTest" />
+    <configuration name="CollectionTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
-      <module name="ThreadTest" />
+    <configuration name="CollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
-      <module name="ThreadTest" />
+    <configuration name="CollectionTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.test1.WindowTest" />
-      <module name="ThreadTest" />
+    <configuration name="CollectionTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.test1.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindowTest (4)" />
-        <item itemvalue="Application.WindowTest (3)" />
-        <item itemvalue="Application.WindowTest (2)" />
-        <item itemvalue="Application.WindowTest" />
-        <item itemvalue="Application.WindowTest (1)" />
+        <item itemvalue="JUnit.CollectionTest.test6" />
+        <item itemvalue="JUnit.CollectionTest.test5" />
+        <item itemvalue="JUnit.CollectionTest (3)" />
+        <item itemvalue="JUnit.CollectionTest (2)" />
+        <item itemvalue="JUnit.CollectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +281,9 @@
       <workItem from="1711800194407" duration="647000" />
       <workItem from="1711800849486" duration="49000" />
       <workItem from="1711800904858" duration="167000" />
+      <workItem from="1712233742434" duration="628000" />
+      <workItem from="1712292529045" duration="616000" />
+      <workItem from="1712475202913" duration="828000" />
     </task>
     <servers />
   </component>
