@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Map/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Map/TreeMapTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Map/TreeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Map/TreeMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ZJT" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

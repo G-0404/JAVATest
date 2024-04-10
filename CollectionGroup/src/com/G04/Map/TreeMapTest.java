@@ -24,7 +24,9 @@ public class TreeMapTest {
                 // return o1.
                 // System.out.println(o1.getClass());
                 if (o1 instanceof User && o2 instanceof User) {
-    
+                    User u1 = (User) o1;
+                    User u2 = (User) o2;
+                    int val = u1.age - u2.age;
                 } else {
                     throw new RuntimeException("参数异常");
                 }
