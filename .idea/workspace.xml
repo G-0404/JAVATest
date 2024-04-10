@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/CollectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/src/StringApiTest/StringApiTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/APITest/src/StringApiTest/StringApiTestAbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionGroup/CollectionGroup.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,72 +84,79 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.StringApiTest1.StringDemo">
-    <configuration name="ProducerConsumerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
-      <module name="ThreadTest" />
+  <component name="RunManager" selected="JUnit.CollectionTest.test6">
+    <configuration name="CollectionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumerTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
-      <module name="ThreadTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumerTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.G04.ThreadCommunication.ProducerConsumerTest" />
-      <module name="ThreadTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.G04.ThreadCommunication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringApiTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="APITest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringApiTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="StringApiTest" />
-      <option name="MAIN_CLASS_NAME" value="StringApiTest.StringApiTest1" />
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringApiTest1.StringDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="APITest" />
+    <configuration name="CollectionTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringApiTest.*" />
+          <option name="PATTERN" value="com.G04.Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StringApiTest" />
-      <option name="MAIN_CLASS_NAME" value="StringApiTest.StringApiTest1" />
-      <option name="METHOD_NAME" value="StringDemo" />
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringApiTest1.StringDemo" />
-        <item itemvalue="JUnit.StringApiTest1" />
-        <item itemvalue="Application.ProducerConsumerTest (1)" />
-        <item itemvalue="Application.ProducerConsumerTest (5)" />
-        <item itemvalue="Application.ProducerConsumerTest (4)" />
+        <item itemvalue="JUnit.CollectionTest.test6" />
+        <item itemvalue="JUnit.CollectionTest.test5" />
+        <item itemvalue="JUnit.CollectionTest (3)" />
+        <item itemvalue="JUnit.CollectionTest (2)" />
+        <item itemvalue="JUnit.CollectionTest" />
       </list>
     </recent_temporary>
   </component>
