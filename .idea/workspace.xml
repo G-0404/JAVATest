@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9536ad30-9dcc-45e1-912e-86a998e2c10d" name="Changes" comment="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkShare/HomeWorkShare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkShare/src/com/G04/HomeWork/Work0410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVATest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsTest/src/com/xiaoguo/AnnotationClass/Annotation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/innerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/ColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/APPLY/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/OuterClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/SeasonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/innerClass/src/com/G04/innerClassTest/enumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/realtech.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev_G" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ZJT" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">
+    <history>
+      <request>
+        <state state="OPEN" assignee="G-0404" />
+      </request>
+    </history>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <selectedUrlAndAccountId>
+      <UrlAndAccount>
+        <accountId>40ea66e5-c550-410c-bd8d-d50cc19187b5</accountId>
+        <url>https://github.com/G-0404/JAVATest.git</url>
+      </UrlAndAccount>
+    </selectedUrlAndAccountId>
+  </component>
+  <component name="ProjectColorInfo">
+    <associatedIndex>5</associatedIndex>
+  </component>
+  <component name="ProjectId" id="2eM0IhC0fRtGl47yuCEmfeiSsAO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="keyToString" value="{   &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,   &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,   &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,   &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,   &quot;git-widget-placeholder&quot;: &quot;dev__G&quot;,   &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,   &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,   &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,   &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,   &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,   &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,   &quot;project.structure.proportion&quot;: &quot;0.15&quot;,   &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,   &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,   &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot; }" />
+  </component>
+  <component name="RunManager" selected="Application.extendsText1">
+    <configuration name="Work0410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.HomeWork.Work0410" />
+      <module name="HomeWorkShare" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="extendsText1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaoguo.extendsTest.extendsText1" />
+      <module name="MethodsTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoguo.extendsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="APITest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="APITest" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.extendsText1" />
+        <item itemvalue="Application.Work0410" />
+        <item itemvalue="JUnit.CollectionTest.test6" />
+        <item itemvalue="JUnit.CollectionTest.test5" />
+        <item itemvalue="JUnit.CollectionTest (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9536ad30-9dcc-45e1-912e-86a998e2c10d" name="Changes" comment="" />
+      <created>1711699061777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711625927786</updated>
+      <workItem from="1711699062843" duration="187000" />
+      <workItem from="1711699257215" duration="89000" />
+      <workItem from="1711625928973" duration="3871000" />
+      <workItem from="1711690883199" duration="607000" />
+      <workItem from="1711691499338" duration="26000" />
+      <workItem from="1711691534268" duration="74000" />
+      <workItem from="1711691616468" duration="5033000" />
+      <workItem from="1711696711499" duration="141000" />
+      <workItem from="1711696858763" duration="1269000" />
+      <workItem from="1711800194407" duration="647000" />
+      <workItem from="1711800849486" duration="49000" />
+      <workItem from="1711800904858" duration="167000" />
+      <workItem from="1712233742434" duration="628000" />
+      <workItem from="1712292529045" duration="616000" />
+      <workItem from="1712475202913" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml&#10;" />
+    <MESSAGE value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'dev_G'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules.xml" />
+  </component>
+</project>
