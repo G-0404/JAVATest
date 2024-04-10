@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestJavaProject.iml" filepath="$PROJECT_DIR$/TestJavaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" filepath="$PROJECT_DIR$/Zjt_itheima/Zjt_itheima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zjt_javase/Zjt_javase.iml" filepath="$PROJECT_DIR$/Zjt_javase/Zjt_javase.iml" />
     </modules>
   </component>
 </project>

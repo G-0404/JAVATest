@@ -1,5 +1,5 @@
-import java.awt.*;
 import java.util.Random;
+import java.util.Scanner;
 
 /**
  * @Author ZJT
@@ -11,10 +11,17 @@ import java.util.Random;
  */
 public class Main {
     public static void main(String[] args) {
+        Main m1 = new Main();
+        m1.method1();
 
-        Frame frame = new Frame();
-        frame.setVisible(true);
+    }
 
-
+    public void method1() {
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 8; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
