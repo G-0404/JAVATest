@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="" />
+    <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/CollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Generic/GenericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +83,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.TestGroup.test">
+  <component name="RunManager" selected="JUnit.CollectionsTest.test">
+    <configuration name="CollectionsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.Collection" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionsTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestGroup.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CollectionGroup" />
       <extension name="coverage">
@@ -90,22 +110,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.G04.Map" />
       <option name="MAIN_CLASS_NAME" value="com.G04.Map.TestGroup" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.G04.Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Map" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Map.TreeMapTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -162,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CollectionsTest.test" />
         <item itemvalue="JUnit.TestGroup.test" />
         <item itemvalue="JUnit.TreeMapTest.test" />
         <item itemvalue="JUnit.TreeMapTest.test (3)" />
         <item itemvalue="JUnit.TreeMapTest.test (2)" />
-        <item itemvalue="JUnit.TreeMapTest.test (1)" />
       </list>
     </recent_temporary>
   </component>
