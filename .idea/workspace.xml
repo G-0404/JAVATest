@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfd16ea-68fe-4ac7-9030-e5217c5875a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Collection/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Generic/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Generic/GenericTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/.demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/FileAndIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/libs/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/BufferedStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/DataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/FileStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/IOStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/FileClass/ObjectInputOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/NetTest/TCPTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/NetTest/netTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileAndIO/src/com/G04/NetTest/netTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Generic/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionGroup/src/com/G04/Generic/GenericTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,82 +97,84 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.CollectionsTest.test">
-    <configuration name="CollectionsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.G04.Generic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.netTest2.client">
+    <configuration name="netTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.G04.NetTest.netTest" />
+      <module name="FileAndIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.Collection.*" />
+          <option name="PATTERN" value="com.G04.NetTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Collection" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Collection.CollectionsTest" />
-      <option name="METHOD_NAME" value="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPTest1.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileAndIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.G04.NetTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.G04.NetTest" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.NetTest.TCPTest1" />
+      <option name="METHOD_NAME" value="client" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGroup.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
+    <configuration name="TCPTest1.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileAndIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.Map.*" />
+          <option name="PATTERN" value="com.G04.NetTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Map" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Map.TestGroup" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.G04.NetTest" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.NetTest.TCPTest1" />
+      <option name="METHOD_NAME" value="server" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapTest.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
+    <configuration name="netTest2.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileAndIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.Map.*" />
+          <option name="PATTERN" value="com.G04.NetTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Map" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Map.TreeMapTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.G04.NetTest" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.NetTest.netTest2" />
+      <option name="METHOD_NAME" value="client" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapTest.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
+    <configuration name="netTest2.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileAndIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.G04.Map.*" />
+          <option name="PATTERN" value="com.G04.NetTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Map" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Map.TreeMapTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CollectionGroup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.G04.Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.G04.Map" />
-      <option name="MAIN_CLASS_NAME" value="com.G04.Map.TreeMapTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.G04.NetTest" />
+      <option name="MAIN_CLASS_NAME" value="com.G04.NetTest.netTest2" />
+      <option name="METHOD_NAME" value="server" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CollectionsTest.test" />
-        <item itemvalue="JUnit.TestGroup.test" />
-        <item itemvalue="JUnit.TreeMapTest.test" />
-        <item itemvalue="JUnit.TreeMapTest.test (3)" />
-        <item itemvalue="JUnit.TreeMapTest.test (2)" />
+        <item itemvalue="JUnit.netTest2.client" />
+        <item itemvalue="JUnit.netTest2.server" />
+        <item itemvalue="JUnit.TCPTest1.client" />
+        <item itemvalue="JUnit.TCPTest1.server" />
+        <item itemvalue="Application.netTest" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +212,10 @@
       <workItem from="1712292529045" duration="616000" />
       <workItem from="1712475202913" duration="828000" />
       <workItem from="1712892158364" duration="2097000" />
+      <workItem from="1713411004984" duration="133000" />
+      <workItem from="1713681631336" duration="14738000" />
+      <workItem from="1713752494710" duration="56000" />
+      <workItem from="1713769100479" duration="21650000" />
     </task>
     <servers />
   </component>

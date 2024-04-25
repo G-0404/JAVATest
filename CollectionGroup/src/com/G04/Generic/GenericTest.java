@@ -1,5 +1,10 @@
 package com.G04.Generic;
 
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
 /**
  * @Author G04
  * @Create 2024/4/14 11:22
@@ -25,6 +30,16 @@ public class GenericTest {
         grassOrder.setOrderId(111);
         grassOrder.setDemo('A');
         System.out.println(grassOrder.getOrderId());
+    }
+
+    @Test
+    public void test1() {
+
+    }
+
+    public <E> ArrayList<E> copyFromArrayToList(E[] oriList) {
+        ArrayList<E> list = new ArrayList<>(Arrays.asList(oriList));
+        return list;
     }
 }
 
